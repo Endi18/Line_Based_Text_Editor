@@ -1,4 +1,4 @@
-# Line_Based_Text_Editor
+# Line Based Text Editor
 
 ## Assignment Summary
 <ul>
